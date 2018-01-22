@@ -3,7 +3,7 @@ description: >
     console.log({me:'刘栋'})
 about: >
 master_repo: false
-url: "6uop.github.io"
+url: "https://6uop.github.io"
 markdown: kramdown
 highlighter: rouge
 
